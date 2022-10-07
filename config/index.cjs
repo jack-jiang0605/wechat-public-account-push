@@ -15,6 +15,7 @@ const USER_CONFIG = {
 
   PROVINCE: '重庆',
   CITY: '沙坪坝',
+  say:'这是一句测试的话'
 
   USERS: [
     {
@@ -46,7 +47,6 @@ const USER_CONFIG = {
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
-      say:'这是一句测试的话'
     },
   ],
 
