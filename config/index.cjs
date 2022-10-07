@@ -15,6 +15,7 @@ const USER_CONFIG = {
 
   PROVINCE: '重庆',
   CITY: '沙坪坝',
+  say:'这是一句测试的话',
 
   USERS: [
     {
@@ -26,7 +27,6 @@ const USER_CONFIG = {
       useTemplateId: 'XtjH1vmTQj5aSpqosF3Kvfs3v1poSs1C61V-CZUh7OQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '06-05',
-      say:'这是一句测试的话',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
